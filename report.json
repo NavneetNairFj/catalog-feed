@@ -1,18 +1,15 @@
 {
   "pages_checked": 731,
   "products": 402,
-  "rows": 485,
+  "rows": 481,
   "kinds": {
-    "unknown": 198,
-    "bundle": 203,
+    "unknown": 200,
+    "bundle": 201,
     "simple": 1
   },
   "issues": {
     "https://www.lostgolfballs.com.au/titleist-pro-v1.html": [
       "no prices found"
-    ],
-    "https://www.lostgolfballs.com.au/12-srixon-q-star-tour-divide-mint-near-mint-grade.html": [
-      "price range 29.99-29.99 != page 18.99-29.99"
     ]
   },
   "failed": [],
@@ -188,6 +185,8 @@
     "https://www.lostgolfballs.com.au/kirkland-signature-tour-performance.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-multi.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-yellow.html",
+    "https://www.lostgolfballs.com.au/taylormade-tp5-12-yellow.html",
+    "https://www.lostgolfballs.com.au/taylormade-tp5x-12-yelloow.html",
     "https://www.lostgolfballs.com.au/bridgestone-b-xs-100.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020-50.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020-100.html",
@@ -215,5 +214,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-09-25T02:30:53Z"
+  "generated": "2026-09-25T05:11:41Z"
 }
