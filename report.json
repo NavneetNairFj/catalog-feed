@@ -1,17 +1,14 @@
 {
   "pages_checked": 731,
   "products": 402,
-  "rows": 481,
+  "rows": 486,
   "kinds": {
-    "unknown": 200,
-    "bundle": 201,
+    "grouped": 1,
+    "unknown": 198,
+    "bundle": 202,
     "simple": 1
   },
-  "issues": {
-    "https://www.lostgolfballs.com.au/titleist-pro-v1.html": [
-      "no prices found"
-    ]
-  },
+  "issues": {},
   "failed": [],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
@@ -180,7 +177,6 @@
     "https://www.lostgolfballs.com.au/50-nike-tour-mix.html",
     "https://www.lostgolfballs.com.au/bridgestone-e6-speed-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-project-s.html",
-    "https://www.lostgolfballs.com.au/12-vice-colour-mix.html",
     "https://www.lostgolfballs.com.au/12-velocity-pink.html",
     "https://www.lostgolfballs.com.au/kirkland-signature-tour-performance.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-multi.html",
@@ -214,5 +210,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-09-25T05:11:41Z"
+  "generated": "2026-09-25T21:50:24Z"
 }
