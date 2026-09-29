@@ -1,7 +1,7 @@
 {
   "pages_checked": 731,
   "products": 402,
-  "rows": 481,
+  "rows": 484,
   "kinds": {
     "grouped": 1,
     "unknown": 200,
@@ -9,7 +9,9 @@
     "simple": 1
   },
   "issues": {},
-  "failed": [],
+  "failed": [
+    "https://www.lostgolfballs.com.au/100-balls/100-yellow/colour-mix.html"
+  ],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
     "https://www.lostgolfballs.com.au/pinnacle-golf-balls.html",
@@ -212,5 +214,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-09-29T00:53:04Z"
+  "generated": "2026-09-29T02:01:18Z"
 }
