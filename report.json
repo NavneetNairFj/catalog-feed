@@ -4,8 +4,8 @@
   "rows": 501,
   "kinds": {
     "grouped": 1,
-    "unknown": 195,
-    "bundle": 205,
+    "unknown": 190,
+    "bundle": 210,
     "simple": 1
   },
   "issues": {},
@@ -71,8 +71,6 @@
     "https://www.lostgolfballs.com.au/50-velocity-orange.html",
     "https://www.lostgolfballs.com.au/nike-rzn-black.html",
     "https://www.lostgolfballs.com.au/12-velocity-orange-4479.html",
-    "https://www.lostgolfballs.com.au/practice-grade-golf-balls.html",
-    "https://www.lostgolfballs.com.au/50-premium-brand-golf-balls-aaa-standard-b.html",
     "https://www.lostgolfballs.com.au/mixed-economy-golf-balls-50-b.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-rx-b-yell.html",
     "https://www.lostgolfballs.com.au/taylormade-penta-tp5.html",
@@ -124,8 +122,6 @@
     "https://www.lostgolfballs.com.au/titleist-nxt-tour-100-ref-b.html",
     "https://www.lostgolfballs.com.au/titleist-prov1x-practice-b.html",
     "https://www.lostgolfballs.com.au/taylormade-rbz-urethane.html",
-    "https://www.lostgolfballs.com.au/50-mixed-nike-golf-balls.html",
-    "https://www.lostgolfballs.com.au/nike-golf-balls-100-2312.html",
     "https://www.lostgolfballs.com.au/bulk-nike-golf-balls-aaa-standard-grade-b.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-rxs-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-preferred-100-2322.html",
@@ -167,7 +163,6 @@
     "https://www.lostgolfballs.com.au/taylormade-tp5-12-r.html",
     "https://www.lostgolfballs.com.au/srixon-z-star-50-ref.html",
     "https://www.lostgolfballs.com.au/taylormade-burner-yellow-50.html",
-    "https://www.lostgolfballs.com.au/premium-brand-orange-mix-50.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020.html",
     "https://www.lostgolfballs.com.au/titleist-pro-v1x-2020.html",
     "https://www.lostgolfballs.com.au/bridgestone-e6-soft-yellow.html",
@@ -207,5 +202,5 @@
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-01T01:12:45Z"
+  "generated": "2026-10-02T01:10:51Z"
 }
