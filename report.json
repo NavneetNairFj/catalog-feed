@@ -1,17 +1,15 @@
 {
   "pages_checked": 731,
   "products": 402,
-  "rows": 504,
+  "rows": 500,
   "kinds": {
     "grouped": 1,
-    "unknown": 190,
-    "bundle": 210,
+    "unknown": 191,
+    "bundle": 209,
     "simple": 1
   },
   "issues": {},
-  "failed": [
-    "https://www.lostgolfballs.com.au/12-balls/bridgestone/e6-orange.html"
-  ],
+  "failed": [],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
     "https://www.lostgolfballs.com.au/pinnacle-golf-balls.html",
@@ -70,6 +68,7 @@
     "https://www.lostgolfballs.com.au/srixon-distance-100.html",
     "https://www.lostgolfballs.com.au/srixon-z-star-xv-yellow-50.html",
     "https://www.lostgolfballs.com.au/srixon-z-star-xv-yellow-100.html",
+    "https://www.lostgolfballs.com.au/100-srixon-z-star-yellow.html",
     "https://www.lostgolfballs.com.au/12-nike-rzn-platinum.html",
     "https://www.lostgolfballs.com.au/50-velocity-orange.html",
     "https://www.lostgolfballs.com.au/nike-rzn-black.html",
@@ -204,5 +203,5 @@
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-03T02:11:19Z"
+  "generated": "2026-10-04T00:19:26Z"
 }
