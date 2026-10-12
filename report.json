@@ -1,11 +1,11 @@
 {
   "pages_checked": 731,
   "products": 403,
-  "rows": 474,
+  "rows": 470,
   "kinds": {
     "grouped": 1,
-    "unknown": 195,
-    "bundle": 206,
+    "unknown": 196,
+    "bundle": 205,
     "simple": 1
   },
   "issues": {},
@@ -63,6 +63,7 @@
     "https://www.lostgolfballs.com.au/callaway-superhot-12.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-50.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-100.html",
+    "https://www.lostgolfballs.com.au/srixon-z-star-50.html",
     "https://www.lostgolfballs.com.au/srixon-distance.html",
     "https://www.lostgolfballs.com.au/srixon-distance-50.html",
     "https://www.lostgolfballs.com.au/srixon-distance-100.html",
@@ -207,5 +208,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-xs-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-11T00:48:59Z"
+  "generated": "2026-10-12T00:58:49Z"
 }
