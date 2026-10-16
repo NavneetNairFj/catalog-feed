@@ -1,11 +1,11 @@
 {
   "pages_checked": 734,
   "products": 403,
-  "rows": 444,
+  "rows": 439,
   "kinds": {
     "grouped": 1,
-    "unknown": 205,
-    "bundle": 196,
+    "unknown": 206,
+    "bundle": 195,
     "simple": 1
   },
   "issues": {},
@@ -184,6 +184,7 @@
     "https://www.lostgolfballs.com.au/callaway-superhot-multi.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-yellow.html",
+    "https://www.lostgolfballs.com.au/taylormade-tp5x-12-yelloow.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020-50.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020-100.html",
     "https://www.lostgolfballs.com.au/titleist-pro-v1x-2020-50.html",
@@ -217,5 +218,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-16T00:17:50Z"
+  "generated": "2026-10-16T23:59:38Z"
 }
