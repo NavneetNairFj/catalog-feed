@@ -1,11 +1,11 @@
 {
   "pages_checked": 734,
   "products": 403,
-  "rows": 439,
+  "rows": 438,
   "kinds": {
     "grouped": 1,
-    "unknown": 206,
-    "bundle": 195,
+    "unknown": 207,
+    "bundle": 194,
     "simple": 1
   },
   "issues": {},
@@ -216,7 +216,8 @@
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen.html",
     "https://www.lostgolfballs.com.au/bridgestone-b-xs-yellow.html",
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
-    "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
+    "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html",
+    "https://www.lostgolfballs.com.au/taylormade-speedsoft-ink-50.html"
   ],
-  "generated": "2026-10-16T23:59:38Z"
+  "generated": "2026-10-17T23:39:41Z"
 }
