@@ -1,11 +1,11 @@
 {
   "pages_checked": 734,
   "products": 403,
-  "rows": 430,
+  "rows": 450,
   "kinds": {
     "grouped": 1,
-    "unknown": 212,
-    "bundle": 189,
+    "unknown": 207,
+    "bundle": 194,
     "simple": 1
   },
   "issues": {},
@@ -143,7 +143,6 @@
     "https://www.lostgolfballs.com.au/callaway-golf-balls-aaa-standard-grade-b.html",
     "https://www.lostgolfballs.com.au/taylormade-burner-tour-50-b.html",
     "https://www.lostgolfballs.com.au/callaway-warbird-100.html",
-    "https://www.lostgolfballs.com.au/bulk-titleist-golf-balls-aaa-standard-grade-b.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-bangers-b.html",
     "https://www.lostgolfballs.com.au/srixon-soft-feel-100.html",
     "https://www.lostgolfballs.com.au/bridgestone-rxs-100.html",
@@ -166,7 +165,6 @@
     "https://www.lostgolfballs.com.au/taylormade-burner-soft.html",
     "https://www.lostgolfballs.com.au/nike-rzn-white.html",
     "https://www.lostgolfballs.com.au/nike-rzn-white-yellow.html",
-    "https://www.lostgolfballs.com.au/mixed-titleist-golf-balls-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tp5-12-r.html",
     "https://www.lostgolfballs.com.au/srixon-z-star-50-ref.html",
     "https://www.lostgolfballs.com.au/taylormade-burner-yellow-50.html",
@@ -214,15 +212,12 @@
     "https://www.lostgolfballs.com.au/callaway-erc-soft-yellow-50.html",
     "https://www.lostgolfballs.com.au/callaway-chrome-soft-yellow-practice.html",
     "https://www.lostgolfballs.com.au/taylormade-soft-response-50.html",
-    "https://www.lostgolfballs.com.au/titleist-prov1x-2024-100.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen.html",
     "https://www.lostgolfballs.com.au/bridgestone-b-xs-yellow.html",
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
-    "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html",
-    "https://www.lostgolfballs.com.au/taylormade-speedsoft-ink-50.html",
-    "https://www.lostgolfballs.com.au/titleist-prov1x-2026-50.html"
+    "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-20T00:57:04Z"
+  "generated": "2026-10-21T00:23:44Z"
 }
