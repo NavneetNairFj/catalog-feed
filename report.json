@@ -1,12 +1,12 @@
 {
-  "pages_checked": 734,
-  "products": 403,
-  "rows": 445,
+  "pages_checked": 735,
+  "products": 404,
+  "rows": 446,
   "kinds": {
     "grouped": 1,
-    "unknown": 210,
-    "bundle": 191,
-    "simple": 1
+    "unknown": 211,
+    "bundle": 190,
+    "simple": 2
   },
   "issues": {},
   "failed": [],
@@ -129,6 +129,7 @@
     "https://www.lostgolfballs.com.au/titleist-nxt-tour-100-ref-b.html",
     "https://www.lostgolfballs.com.au/titleist-prov1x-practice-b.html",
     "https://www.lostgolfballs.com.au/taylormade-rbz-urethane.html",
+    "https://www.lostgolfballs.com.au/50-mixed-nike-golf-balls.html",
     "https://www.lostgolfballs.com.au/bulk-nike-golf-balls-aaa-standard-grade-b.html",
     "https://www.lostgolfballs.com.au/srixon-practice-b.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-rxs-50.html",
@@ -222,5 +223,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-23T00:35:07Z"
+  "generated": "2026-10-24T00:27:37Z"
 }
