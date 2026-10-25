@@ -1,11 +1,11 @@
 {
   "pages_checked": 735,
   "products": 404,
-  "rows": 448,
+  "rows": 452,
   "kinds": {
     "grouped": 1,
-    "unknown": 212,
-    "bundle": 189,
+    "unknown": 210,
+    "bundle": 191,
     "simple": 2
   },
   "issues": {},
@@ -147,8 +147,6 @@
     "https://www.lostgolfballs.com.au/taylormade-burner-tour-50-b.html",
     "https://www.lostgolfballs.com.au/callaway-warbird-100.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-bangers-b.html",
-    "https://www.lostgolfballs.com.au/srixon-soft-feel-3566.html",
-    "https://www.lostgolfballs.com.au/srixon-soft-feel-100.html",
     "https://www.lostgolfballs.com.au/bridgestone-rxs-100.html",
     "https://www.lostgolfballs.com.au/bulk-mixed-titleist-golf-balls-b.html",
     "https://www.lostgolfballs.com.au/12-callaway-chrome-soft-truvis-yellow.html",
@@ -224,5 +222,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-24T23:44:23Z"
+  "generated": "2026-10-25T23:50:41Z"
 }
