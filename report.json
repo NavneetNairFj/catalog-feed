@@ -1,11 +1,11 @@
 {
   "pages_checked": 735,
   "products": 404,
-  "rows": 452,
+  "rows": 451,
   "kinds": {
     "grouped": 1,
-    "unknown": 210,
-    "bundle": 191,
+    "unknown": 207,
+    "bundle": 194,
     "simple": 2
   },
   "issues": {},
@@ -94,7 +94,6 @@
     "https://www.lostgolfballs.com.au/taylormade-rbz-urethane-50.html",
     "https://www.lostgolfballs.com.au/taylormade-mix-yellow-100.html",
     "https://www.lostgolfballs.com.au/taylormade-mix-yellow-50.html",
-    "https://www.lostgolfballs.com.au/50-callaway-practice-golf-balls-b.html",
     "https://www.lostgolfballs.com.au/titleist-nxt-tour-50-ref-b.html",
     "https://www.lostgolfballs.com.au/titleist-dt-solo-yellow.html",
     "https://www.lostgolfballs.com.au/bridgestone-rxs-ref.html",
@@ -175,7 +174,6 @@
     "https://www.lostgolfballs.com.au/titleist-avx-yellow.html",
     "https://www.lostgolfballs.com.au/titleist-prov1-2020.html",
     "https://www.lostgolfballs.com.au/titleist-pro-v1x-2020.html",
-    "https://www.lostgolfballs.com.au/titleist-pro-v1-yellow.html",
     "https://www.lostgolfballs.com.au/bridgestone-e6-soft-yellow.html",
     "https://www.lostgolfballs.com.au/titleist-nxt-tour-s-yellow-100-3879.html",
     "https://www.lostgolfballs.com.au/bridgestone-e12-soft.html",
@@ -214,7 +212,6 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-rx-ref.html",
     "https://www.lostgolfballs.com.au/callaway-erc-soft-yellow-50.html",
     "https://www.lostgolfballs.com.au/callaway-chrome-soft-yellow-practice.html",
-    "https://www.lostgolfballs.com.au/taylormade-soft-response-50.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen.html",
@@ -222,5 +219,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-25T23:50:41Z"
+  "generated": "2026-10-27T01:07:33Z"
 }
