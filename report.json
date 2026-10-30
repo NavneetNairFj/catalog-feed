@@ -1,16 +1,16 @@
 {
   "pages_checked": 736,
   "products": 404,
-  "rows": 447,
+  "rows": 442,
   "kinds": {
     "grouped": 1,
-    "unknown": 208,
-    "bundle": 193,
+    "unknown": 209,
+    "bundle": 192,
     "simple": 2
   },
   "issues": {},
   "failed": [
-    "https://www.lostgolfballs.com.au/titleist-trufeel.html"
+    "https://www.lostgolfballs.com.au/bridgestone-e12-contact-multicolour-50.html"
   ],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
@@ -35,6 +35,7 @@
     "https://www.lostgolfballs.com.au/bridgestone-b330.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-50-3708.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-100.html",
+    "https://www.lostgolfballs.com.au/bridgestone-e6-100-b.html",
     "https://www.lostgolfballs.com.au/titleist-pro-v1x-24-pack.html",
     "https://www.lostgolfballs.com.au/refinished-titleist-pro-v1-b.html",
     "https://www.lostgolfballs.com.au/refinished-titleist-pro-v1-b-50.html",
@@ -222,5 +223,5 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-x-yellow.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html"
   ],
-  "generated": "2026-10-29T01:26:20Z"
+  "generated": "2026-10-30T01:21:17Z"
 }
