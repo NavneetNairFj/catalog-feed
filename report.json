@@ -1,7 +1,7 @@
 {
   "pages_checked": 736,
   "products": 405,
-  "rows": 448,
+  "rows": 446,
   "kinds": {
     "grouped": 1,
     "unknown": 211,
@@ -9,7 +9,9 @@
     "simple": 2
   },
   "issues": {},
-  "failed": [],
+  "failed": [
+    "https://www.lostgolfballs.com.au/12-balls/taylormade/tour-response-stripe-12.html"
+  ],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
     "https://www.lostgolfballs.com.au/pinnacle-golf-balls.html",
@@ -223,5 +225,5 @@
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html",
     "https://www.lostgolfballs.com.au/titleist-prov1x-2026-50.html"
   ],
-  "generated": "2026-11-03T03:39:13Z"
+  "generated": "2026-11-04T01:53:03Z"
 }
