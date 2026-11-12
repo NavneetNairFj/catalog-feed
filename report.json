@@ -1,17 +1,15 @@
 {
   "pages_checked": 738,
   "products": 406,
-  "rows": 474,
+  "rows": 485,
   "kinds": {
     "grouped": 1,
-    "unknown": 202,
-    "bundle": 201,
+    "unknown": 199,
+    "bundle": 204,
     "simple": 2
   },
   "issues": {},
-  "failed": [
-    "https://www.lostgolfballs.com.au/12-balls/bridgestone/e6-speed-yellow.html"
-  ],
+  "failed": [],
   "out_of_stock_no_price": [
     "https://www.lostgolfballs.com.au/titleist-pro-v1-x.html",
     "https://www.lostgolfballs.com.au/pinnacle-golf-balls.html",
@@ -69,11 +67,9 @@
     "https://www.lostgolfballs.com.au/callaway-superhot-12.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-50.html",
     "https://www.lostgolfballs.com.au/callaway-superhot-100.html",
-    "https://www.lostgolfballs.com.au/srixon-z-star-50.html",
     "https://www.lostgolfballs.com.au/srixon-distance.html",
     "https://www.lostgolfballs.com.au/srixon-distance-50.html",
     "https://www.lostgolfballs.com.au/srixon-distance-100.html",
-    "https://www.lostgolfballs.com.au/srixon-z-star-xv-yellow-50.html",
     "https://www.lostgolfballs.com.au/srixon-z-star-xv-yellow-100.html",
     "https://www.lostgolfballs.com.au/50-srixon-z-star-yellow.html",
     "https://www.lostgolfballs.com.au/100-srixon-z-star-yellow.html",
@@ -198,7 +194,6 @@
     "https://www.lostgolfballs.com.au/titleist-avx-pen.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-50.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-mix-50.html",
-    "https://www.lostgolfballs.com.au/50-precept-golf-balls.html",
     "https://www.lostgolfballs.com.au/taylormade-tp5x-12-r.html",
     "https://www.lostgolfballs.com.au/bridgestone-e12-soft-50.html",
     "https://www.lostgolfballs.com.au/titleist-tour-speed-yellow.html",
@@ -216,5 +211,5 @@
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen-50.html",
     "https://www.lostgolfballs.com.au/titleist-tour-speed-50.html"
   ],
-  "generated": "2026-11-11T01:55:33Z"
+  "generated": "2026-11-12T03:01:38Z"
 }
