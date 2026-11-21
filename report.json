@@ -1,11 +1,11 @@
 {
   "pages_checked": 741,
   "products": 411,
-  "rows": 508,
+  "rows": 524,
   "kinds": {
     "grouped": 1,
-    "unknown": 193,
-    "bundle": 215,
+    "unknown": 191,
+    "bundle": 217,
     "simple": 2
   },
   "issues": {},
@@ -32,7 +32,6 @@
     "https://www.lostgolfballs.com.au/bridgestone-b330.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-50-3708.html",
     "https://www.lostgolfballs.com.au/bridgestone-b330-100.html",
-    "https://www.lostgolfballs.com.au/bridgestone-e6-100-b.html",
     "https://www.lostgolfballs.com.au/titleist-pro-v1x-24-pack.html",
     "https://www.lostgolfballs.com.au/refinished-titleist-pro-v1-b.html",
     "https://www.lostgolfballs.com.au/refinished-titleist-pro-v1-b-50.html",
@@ -73,7 +72,6 @@
     "https://www.lostgolfballs.com.au/100-srixon-z-star-yellow.html",
     "https://www.lostgolfballs.com.au/12-nike-rzn-platinum.html",
     "https://www.lostgolfballs.com.au/nike-rzn-black.html",
-    "https://www.lostgolfballs.com.au/bridgestone-b330-rx-b-yell.html",
     "https://www.lostgolfballs.com.au/taylormade-penta-tp5.html",
     "https://www.lostgolfballs.com.au/refinished-bridgestone-b330-s.html",
     "https://www.lostgolfballs.com.au/nike-one-rzn-platinum-100.html",
@@ -184,7 +182,6 @@
     "https://www.lostgolfballs.com.au/titleist-avx-pen.html",
     "https://www.lostgolfballs.com.au/titleist-avx-yellow-pen.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-50.html",
-    "https://www.lostgolfballs.com.au/bridgestone-b330-mix-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tp5-12-practice.html",
     "https://www.lostgolfballs.com.au/taylormade-tp5x-12-r.html",
     "https://www.lostgolfballs.com.au/50-practice-colour-golf-balls.html",
@@ -198,6 +195,7 @@
     "https://www.lostgolfballs.com.au/bridgestone-b-rx-ref.html",
     "https://www.lostgolfballs.com.au/callaway-chrome-soft-yellow-practice.html",
     "https://www.lostgolfballs.com.au/callaway-chrome-soft-triple-track-yellow-50.html",
+    "https://www.lostgolfballs.com.au/titleist-prov1x-2024-100.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen.html",
     "https://www.lostgolfballs.com.au/srixon-q-star-tour-pen-50.html",
     "https://www.lostgolfballs.com.au/taylormade-tour-response-pen.html",
@@ -205,5 +203,5 @@
     "https://www.lostgolfballs.com.au/titleist-tour-speed-50.html",
     "https://www.lostgolfballs.com.au/titleist-prov1x-2026-50.html"
   ],
-  "generated": "2026-11-20T02:55:06Z"
+  "generated": "2026-11-21T02:47:31Z"
 }
